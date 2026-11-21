@@ -16,4 +16,4 @@ Real-time live chat translator with customizable inline styling and hover Romaji
 ## Installation (Developer Mode)
 1. Download or clone this repository:
    ```bash
-   git clone [https://github.com/kuroumaru2/castlator.git](https://github.com/kuroumaru2/castlator.git)
+   git clone https://github.com/kuroumaru2/castlator.git
